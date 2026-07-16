@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ⚙️ About Me:
 👯 I’m looking to collaborate on C#/.NET<br>🌱 I’m currently learning programming<br>
 
 
